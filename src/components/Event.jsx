@@ -66,7 +66,7 @@ const Events = () => {
                     </p>
                   </div>
 
-                  <a href={e.link} target="_blank" className='reserve-btn flex-center'>Reserve a seat</a>
+                  <a href={e.link} target="_blank" className='reserve-btn flex-center'>Reserve seat</a>
                 </div>
               </div>
             ))
