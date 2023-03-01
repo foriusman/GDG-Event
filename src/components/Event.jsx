@@ -10,7 +10,7 @@ const Events = () => {
     {
       id: 1,
       picture: event1,
-      date: 'MAR 4, 2023 - CONFERENCE',
+      date: 'MAR 18, 2023 - CONFERENCE',
       title: 'Flutter Forward Extended Maiduguri',
       location: 'Maiduguri Nigeria',
       link: 'https://gdg.community.dev/e/mysv33',
