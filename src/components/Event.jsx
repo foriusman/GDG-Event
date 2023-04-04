@@ -37,7 +37,7 @@ const Events = () => {
       date: 'APRIL - MAY',
       title: 'RGDC  Maiduguri 2023',
       location: 'Maiduguri Nigeria',
-      link: 'https://gdg.community.dev/e/mb3y2b',
+      link: 'https://gdg.community.dev/e/m4a5ww',
     },
   ]
 
